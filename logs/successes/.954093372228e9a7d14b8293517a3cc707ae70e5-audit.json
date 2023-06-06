@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Corexlab\\assignments\\UMS\\phero-ums-practice\\logs\\successes\\.954093372228e9a7d14b8293517a3cc707ae70e5-audit.json",
+    "files": [
+        {
+            "date": 1686060018548,
+            "name": "D:\\Corexlab\\assignments\\UMS\\phero-ums-practice\\logs\\successes\\phu-2023-06-06-20.success.log",
+            "hash": "5584eab009974b6dc3376540e1f1640562eb65f14d2ecc81bf34b72690a061eb"
+        }
+    ],
+    "hashType": "sha256"
+}
