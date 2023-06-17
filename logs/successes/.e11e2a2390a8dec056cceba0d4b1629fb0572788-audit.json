@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "D:\\Corexlab\\assignments\\UMS\\phero-ums-practice\\logs\\successes\\.e11e2a2390a8dec056cceba0d4b1629fb0572788-audit.json",
-    "files": [
-        {
-            "date": 1686060035046,
-            "name": "D:\\Corexlab\\assignments\\UMS\\phero-ums-practice\\logs\\successes\\phu-2023-06-06-20.error.log",
-            "hash": "acb56d71ec74946e68139ab5fb4e9189ee461d16052da4497ea1c2ba81b41a52"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "D:\\Corexlab\\assignments\\UMS\\phero-ums-practice\\logs\\successes\\.e11e2a2390a8dec056cceba0d4b1629fb0572788-audit.json",
+  "files": [
+    {
+      "date": 1686060035046,
+      "name": "D:\\Corexlab\\assignments\\UMS\\phero-ums-practice\\logs\\successes\\phu-2023-06-06-20.error.log",
+      "hash": "acb56d71ec74946e68139ab5fb4e9189ee461d16052da4497ea1c2ba81b41a52"
+    }
+  ],
+  "hashType": "sha256"
 }
